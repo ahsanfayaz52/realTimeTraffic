@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">RealTimeTraffic</string>
+
+    <array name="colors_arc">
+        <item>#ffffff</item>
+    </array>
+    <array name="colors_arc_dilog">
+        <item>#1d6dbe</item>
+    </array>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="cityNames">
+
+        <item>Find Location</item>
+        <item>Peshawar</item>
+        <item>Islamabad</item>
+        <item>Attock</item>
+        <item>Lahore</item>
+        <item>Multan</item>
+
+
+    </string-array>
+
+    <string-array name="Attock">
+        <item>Find Route</item>
+        <item>City School</item>
+        <item>Comsats Uni</item>
+
+
+    </string-array>
+
+    <string-array name="Peshawar">
+        <item>Find Route</item>
+        <item>Haji Camp</item>
+        <item>Firdous</item>
+        <item>Sadar Bazar</item>
+        <item>University road</item>
+
+
+    </string-array>
+
+    <string-array name="Islamabad">
+        <item>Find Route</item>
+        <item>Mandi Morh </item>
+        <item>Pirwadai Stop</item>
+        <item>Sadar Bazar</item>
+        <item>Raja Bazar</item>
+
+
+    </string-array>
+    <string-array name="Multan">
+        <item>Find Route</item>
+        <item>Multan Art Gallery </item>
+        <item>Fort Kohna Road</item>
+        <item>Women University</item>
+        <item>Nishtar Medical College</item>
+
+
+    </string-array>
+    <string-array name="Lahore">
+        <item>Find Route</item>
+        <item>Comsats Lahore</item>
+        <item>UCP university</item>
+        <item>King Edwardes College</item>
+        <item>Lahore Fort</item>
+
+
+    </string-array>
+
+
+</resources>

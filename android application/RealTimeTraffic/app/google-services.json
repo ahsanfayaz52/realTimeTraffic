@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704920146281",
+    "firebase_url": "https://fyp-realtimetraffic.firebaseio.com",
+    "project_id": "fyp-realtimetraffic",
+    "storage_bucket": "fyp-realtimetraffic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704920146281:android:7440e2dff4e3775661edf8",
+        "android_client_info": {
+          "package_name": "com.developer.hajira.realtimetraffic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704920146281-ndt7rd76t32jba32kpdutq56cvt1bshr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGq8co9SIDWx-c_UpzhlPX8XoerO--vBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704920146281-ndt7rd76t32jba32kpdutq56cvt1bshr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

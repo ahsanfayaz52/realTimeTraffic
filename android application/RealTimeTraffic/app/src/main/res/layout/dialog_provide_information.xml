@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Provide Information"
+        android:background="@color/colorPrimary"
+        android:textColor="@android:color/white"
+        android:padding="15dp"
+        android:textSize="20sp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="30dp"
+
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Destination"
+            android:textSize="18sp"
+            />
+
+
+        <com.dev.materialspinner.MaterialSpinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cities"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Route"
+            android:textSize="18sp"
+            />
+
+
+        <com.dev.materialspinner.MaterialSpinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/routes"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:text="Continue"
+            android:backgroundTint="@color/colorButon"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:layout_alignParentBottom="true"
+            android:id="@+id/btnContinue"
+            />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
